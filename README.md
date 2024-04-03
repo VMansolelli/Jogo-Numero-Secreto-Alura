@@ -5,3 +5,6 @@ Jogo desenvolvido através do curso da **ALURA** com o acompnahmento dos profess
 # Descrição do jogo
 Através do jogo foi possível aprender um pouco sobre integração de Java Script com HTML usando funções e lista
 
+# Acesso do jogo via hospedagem vercel
+https://jogo-numero-secreto-alura-beige.vercel.app/
+
